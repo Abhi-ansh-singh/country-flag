@@ -1,4 +1,4 @@
-import Countries from "./countries";
+import Countries from "./Countries";
 
 function App() {
   return (
